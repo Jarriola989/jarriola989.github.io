@@ -10,7 +10,24 @@ const Projects = props => (
         <div className="front">
           <img src={wise} alt="wise-code" />
         </div>
-        <div className="back">Wise-code</div>
+        <div className="back">
+          <div>Wise Code - Mobile</div>
+          <div>
+            My Contributions <br />
+            <ul>
+              <li>
+                Implemented and maintained Graphql API for data management app
+                (WiseDB).
+              </li>
+              <li>Successfully created scripts to find and fix faulty data.</li>
+              <li>
+                Helped improve mutation efficiency and code cleanliness
+                (refactoring).
+              </li>
+            </ul>
+          </div>
+          <div></div>
+        </div>
       </div>
     </div>
     <div className="project2">
