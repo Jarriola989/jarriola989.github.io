@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Jarriola989/jarriola989.github.io/static/css/main.3f1f8f8b.chunk.css",
+    "main.js": "/Jarriola989/jarriola989.github.io/static/js/main.8798aff2.chunk.js",
+    "main.js.map": "/Jarriola989/jarriola989.github.io/static/js/main.8798aff2.chunk.js.map",
+    "runtime-main.js": "/Jarriola989/jarriola989.github.io/static/js/runtime-main.d441a351.js",
+    "runtime-main.js.map": "/Jarriola989/jarriola989.github.io/static/js/runtime-main.d441a351.js.map",
+    "static/js/2.6f40c332.chunk.js": "/Jarriola989/jarriola989.github.io/static/js/2.6f40c332.chunk.js",
+    "static/js/2.6f40c332.chunk.js.map": "/Jarriola989/jarriola989.github.io/static/js/2.6f40c332.chunk.js.map",
+    "index.html": "/Jarriola989/jarriola989.github.io/index.html",
+    "precache-manifest.1c206517751fa0404165f43a9bc2d520.js": "/Jarriola989/jarriola989.github.io/precache-manifest.1c206517751fa0404165f43a9bc2d520.js",
+    "service-worker.js": "/Jarriola989/jarriola989.github.io/service-worker.js",
+    "static/css/main.3f1f8f8b.chunk.css.map": "/Jarriola989/jarriola989.github.io/static/css/main.3f1f8f8b.chunk.css.map",
+    "static/js/2.6f40c332.chunk.js.LICENSE.txt": "/Jarriola989/jarriola989.github.io/static/js/2.6f40c332.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Jarriola989/jarriola989.github.io/static/media/bg.b7252cde.jpg",
+    "static/media/computer.jpeg": "/Jarriola989/jarriola989.github.io/static/media/computer.5cf39d01.jpeg",
+    "static/media/geektext.png": "/Jarriola989/jarriola989.github.io/static/media/geektext.10c1602d.png",
+    "static/media/rhaz.png": "/Jarriola989/jarriola989.github.io/static/media/rhaz.8297fb02.png",
+    "static/media/wise-code.png": "/Jarriola989/jarriola989.github.io/static/media/wise-code.07d76741.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d441a351.js",
+    "static/js/2.6f40c332.chunk.js",
+    "static/css/main.3f1f8f8b.chunk.css",
+    "static/js/main.8798aff2.chunk.js"
+  ]
+}
