@@ -221,8 +221,6 @@ p.about {
 }
 
 .flip {
-  /* height: 100%;
-  width: 100%; */
   position: relative;
   transition: 0.6s;
   transform-style: preserve-3d;
@@ -233,8 +231,6 @@ p.about {
 .back {
   backface-visibility: hidden;
   position: absolute;
-  /* top: 0;
-  left: 0; */
 }
 
 .front {
@@ -242,6 +238,7 @@ p.about {
   transform: rotateY(0deg);
   overflow: hidden;
   align-items: center;
+  opacity: 0.9;
   /* display: flex; */
 }
 
@@ -249,12 +246,38 @@ p.about {
   transform: rotateY(180deg);
   background-color: #d45d79;
   display: grid;
+  grid-template-rows: auto auto auto auto;
+  grid-template-columns: auto auto auto auto;
+  padding: 20px;
+  color: #e9e2d0;
+}
+
+.coming-soon {
+  background-image: url("./images/MiamiHacks.png");
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .front img {
   max-width: 100%;
   min-height: 100%;
   object-fit: cover;
+}
+
+.project-name {
+  grid-row: 1 / 2;
+}
+
+.contributions {
+  grid-row: 2 / 3;
+  font-size: 14px;
+}
+
+.tech {
+  grid-row: 3 / 4;
+  font-size: 14px;
 }
 
 .project1 {
