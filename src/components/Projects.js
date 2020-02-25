@@ -2,7 +2,6 @@ import React from "react";
 import wise from "../images/projects/wise-code.png";
 import geek from "../images/projects/geektext.png";
 import rhaz from "../images/projects/rhaz.png";
-import MiamiHacks from "../images/MiamiHacks.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLink, faCode } from "@fortawesome/free-solid-svg-icons";
 
@@ -42,11 +41,11 @@ const Projects = props => (
               <li>Docker</li>
             </ul>
           </div>
-          <div>
-            <button>
+          <div className="code-link">
+            <button className="project-link">
               <FontAwesomeIcon icon={faLink} />
             </button>
-            <button>
+            <button className="project-link">
               <FontAwesomeIcon icon={faCode} />
             </button>
           </div>
@@ -75,11 +74,11 @@ const Projects = props => (
               <li>C#</li>
             </ul>
           </div>
-          <div>
-            <button>
+          <div className="code-link">
+            <button className="project-link">
               <FontAwesomeIcon icon={faLink} />
             </button>
-            <button>
+            <button className="project-link">
               <FontAwesomeIcon icon={faCode} />
             </button>
           </div>
@@ -88,8 +87,8 @@ const Projects = props => (
     </div>
     <div className="project3">
       <div className="flip">
-        <div className="front">COMING SOON</div>
-        <div className="back coming-soon"></div>
+        <div className="front coming-soon"></div>
+        <div className="back">COMING SOON</div>
       </div>
     </div>
     <div className="project4">
@@ -98,12 +97,32 @@ const Projects = props => (
           <img src={geek} alt="geek-text" />
         </div>
         <div className="back">
-          <div className="contribution-long">
+          <div className="contributions-long">
             <strong>Geek Text</strong>
+            <br />
+            <br />
             My Contributions:
             <ul>
-              <li>Implemented logic for alien movement and re-generation.</li>
+              <li>Implemented login feature.</li>
+              <li>Impremented create-account feature.</li>
+              <li>Used Stripe API for payment storage/verification.</li>
             </ul>
+          </div>
+          <div className="tech-long">
+            Technologies used:
+            <ul>
+              <li>ReactJS</li>
+              <li>Java Springboot</li>
+              <li>Postgresql</li>
+            </ul>
+          </div>
+          <div className="code-link-long">
+            <button className="project-link">
+              <FontAwesomeIcon icon={faLink} />
+            </button>
+            <button className="project-link">
+              <FontAwesomeIcon icon={faCode} />
+            </button>
           </div>
         </div>
       </div>

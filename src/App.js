@@ -27,6 +27,7 @@ class App extends Component {
           <Route path="/languages" component={Languages} />
           <Route path="/projects" component={Projects} />
         </div>
+        {console.log("URL", process.env.PUBLIC_URL)}
       </BrowserRouter>
     );
   }

@@ -40,7 +40,7 @@ class Navbar extends Component {
             Contact Me
           </Link>
         </div>
-        {console.log(pathname)}
+        {/* {console.log(pathname)} */}
       </div>
     );
   }
