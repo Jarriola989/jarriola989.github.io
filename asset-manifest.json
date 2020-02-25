@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Jarriola989/jarriola989.github.io/static/css/main.3f1f8f8b.chunk.css",
-    "main.js": "/Jarriola989/jarriola989.github.io/static/js/main.8798aff2.chunk.js",
-    "main.js.map": "/Jarriola989/jarriola989.github.io/static/js/main.8798aff2.chunk.js.map",
-    "runtime-main.js": "/Jarriola989/jarriola989.github.io/static/js/runtime-main.d441a351.js",
-    "runtime-main.js.map": "/Jarriola989/jarriola989.github.io/static/js/runtime-main.d441a351.js.map",
-    "static/js/2.6f40c332.chunk.js": "/Jarriola989/jarriola989.github.io/static/js/2.6f40c332.chunk.js",
-    "static/js/2.6f40c332.chunk.js.map": "/Jarriola989/jarriola989.github.io/static/js/2.6f40c332.chunk.js.map",
-    "index.html": "/Jarriola989/jarriola989.github.io/index.html",
-    "precache-manifest.1c206517751fa0404165f43a9bc2d520.js": "/Jarriola989/jarriola989.github.io/precache-manifest.1c206517751fa0404165f43a9bc2d520.js",
-    "service-worker.js": "/Jarriola989/jarriola989.github.io/service-worker.js",
-    "static/css/main.3f1f8f8b.chunk.css.map": "/Jarriola989/jarriola989.github.io/static/css/main.3f1f8f8b.chunk.css.map",
-    "static/js/2.6f40c332.chunk.js.LICENSE.txt": "/Jarriola989/jarriola989.github.io/static/js/2.6f40c332.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Jarriola989/jarriola989.github.io/static/media/bg.b7252cde.jpg",
-    "static/media/computer.jpeg": "/Jarriola989/jarriola989.github.io/static/media/computer.5cf39d01.jpeg",
-    "static/media/geektext.png": "/Jarriola989/jarriola989.github.io/static/media/geektext.10c1602d.png",
-    "static/media/rhaz.png": "/Jarriola989/jarriola989.github.io/static/media/rhaz.8297fb02.png",
-    "static/media/wise-code.png": "/Jarriola989/jarriola989.github.io/static/media/wise-code.07d76741.png"
+    "main.css": "/static/css/main.7571d622.chunk.css",
+    "main.js": "/static/js/main.dae1863e.chunk.js",
+    "main.js.map": "/static/js/main.dae1863e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eaf0111e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eaf0111e.js.map",
+    "static/js/2.6e0102ae.chunk.js": "/static/js/2.6e0102ae.chunk.js",
+    "static/js/2.6e0102ae.chunk.js.map": "/static/js/2.6e0102ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.05914673d2ff4a7787bf679d3689f474.js": "/precache-manifest.05914673d2ff4a7787bf679d3689f474.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7571d622.chunk.css.map": "/static/css/main.7571d622.chunk.css.map",
+    "static/js/2.6e0102ae.chunk.js.LICENSE.txt": "/static/js/2.6e0102ae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg.b7252cde.jpg",
+    "static/media/computer.jpeg": "/static/media/computer.5cf39d01.jpeg",
+    "static/media/geektext.png": "/static/media/geektext.10c1602d.png",
+    "static/media/rhaz.png": "/static/media/rhaz.8297fb02.png",
+    "static/media/wise-code.png": "/static/media/wise-code.07d76741.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d441a351.js",
-    "static/js/2.6f40c332.chunk.js",
-    "static/css/main.3f1f8f8b.chunk.css",
-    "static/js/main.8798aff2.chunk.js"
+    "static/js/runtime-main.eaf0111e.js",
+    "static/js/2.6e0102ae.chunk.js",
+    "static/css/main.7571d622.chunk.css",
+    "static/js/main.dae1863e.chunk.js"
   ]
 }
